@@ -1,0 +1,9 @@
+---
+:orm: mongoid
+:test: minitest
+:mock: none
+:script: jquery
+:renderer: erb
+:stylesheet: none
+:namespace: FirstApp
+:migration_format: number
